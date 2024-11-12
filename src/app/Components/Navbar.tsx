@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Navbar() {
     return( 
-    <div className="text-[#caf0f8] bg-[#10002B] text-2xl p-3 font-serif flex ...">
+    <div className="text-yellow-200 bg-slate-950 text-2xl p-3 font-serif flex ...">
         {/* <div  className="pl-10 flex-1 ... ">
             ENAR Petroleum Refining Facility
         </div> */}
